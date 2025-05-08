@@ -1,5 +1,6 @@
-# {{REPO_NAME}}
+<h2>Qompass AI Markdown</h2>
 
+<h3>Qompass AI Markdown Templates</h3>
 ## {{DESCRIPTION}}
 
 <p align="center">
@@ -14,8 +15,6 @@
   {{REPO_VIEW_BADGE}}
 </p>
 </p>
-
-**Tags:** {{KEYWORDS_LIST}}
 
 ---
 
@@ -48,7 +47,3 @@
 
 <details id="Zenodo DOI">
   <summary><strong>Digital Object Identifier (DOI)</strong></summary>
-
-```markdown
-{{DOI_MARKDOWN}}
-
