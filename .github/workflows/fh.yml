@@ -18,6 +18,6 @@ jobs:
       - uses: DeterminateSystems/nix-installer-action@main
       - uses: DeterminateSystems/flakehub-push@main
         with:
-          name: qompassai/Markdown  # Auto-generate org/repo-name format
+          name: qompassai/markdown
           rolling: true
           visibility: public
