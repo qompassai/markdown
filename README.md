@@ -7,6 +7,8 @@
 <h3> Qompass AI on Markdown </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-markdown)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/markdown/total?style=flat-square)
+
   <a href="https://www.markdownguide.org/">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 </a>
